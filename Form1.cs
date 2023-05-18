@@ -27,6 +27,7 @@ namespace v0518
             button3.BackColor = Color.Red;
             button4.BackColor = Color.Green;
             button5.Visible = false;
+            button6.Visible = true;
         }
     }
 }

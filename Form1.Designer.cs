@@ -101,12 +101,15 @@
             // 
             // button6
             // 
+            button6.BackColor = SystemColors.ControlLightLight;
+            button6.ForeColor = Color.Maroon;
             button6.Location = new Point(292, 124);
             button6.Name = "button6";
             button6.Size = new Size(94, 26);
             button6.TabIndex = 6;
-            button6.Text = "button6";
-            button6.UseVisualStyleBackColor = true;
+            button6.Text = "ボン";
+            button6.UseVisualStyleBackColor = false;
+            button6.Visible = false;
             // 
             // Form1
             // 
